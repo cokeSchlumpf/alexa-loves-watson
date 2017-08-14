@@ -1,0 +1,11 @@
+{
+  "name": "conversation",
+  "version": "1.0.0",
+  "description": "An OpenWhisk action which requests Watson Conversation Service",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "lodash": "^4.17.4",
+    "watson-developer-cloud": "^2.37.0"
+  }
+}

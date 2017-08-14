@@ -1,0 +1,27 @@
+[
+  {
+    "name": "config.conversation.username",
+    "required": true,
+    "description": "The Watson Conversation Service username."
+  },
+  {
+    "name": "config.conversation.password",
+    "required": true,
+    "description": "The Watson Conversation Service password."
+  },
+  {
+    "name": "config.conversation.workspace",
+    "required": true,
+    "description": "The Watson Conversation Service workspace id."
+  },
+  {
+    "name": "text",
+    "required": true,
+    "description": "The utterance of the user."
+  },
+  {
+    "name": "context",
+    "required": true,
+    "description": "The context to be used for the conversation."
+  }
+]
