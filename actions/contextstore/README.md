@@ -1,0 +1,3 @@
+Why this is not a webaction...
+
+https://www.raymondcamden.com/2017/04/28/bound-packages-openwhisk-and-web-actions
