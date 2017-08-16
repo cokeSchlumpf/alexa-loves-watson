@@ -72,7 +72,7 @@ A cognitive service provided by IBM to quickly build, run and manage chatbots or
 
 The Watson Conversation Service is mainly used to configure and build the whole dialog structure. For the purpose to show the capabilities of the service in this demo, it will also do some basic transformations of the data - In a real world scenario you would most probably do that within your backend application.
 
-[![Watson Conversation Service Overview](https://img.youtube.com/vi/1rTl1WEbg5U/0.jpg)](https://www.youtube.com/watch?v=1rTl1WEbg5U)
+[![Watson Conversation Service Overview](https://img.youtube.com/vi/1rTl1WEbg5U/2.jpg)](https://www.youtube.com/watch?v=1rTl1WEbg5U)
 
 An overview about the basic concepts of Watson Conversation Service and some simple examples can be found here: [https://www.ibm.com/watson/services/conversation/](https://www.ibm.com/watson/services/conversation/).
 
