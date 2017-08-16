@@ -2,12 +2,12 @@
   "config": {
     "cloudant": {
       "database": "remember-the-pineapple",
-      "url": "<url>"
+      "url": "${CLOUDANT_URL}"
     },
     "conversation": {
-      "username": "<username>",
-      "password": "<password>",
-      "workspace": "<workspaceId>"
+      "username": "${CONVERSATION_USERNAME}",
+      "password": "${CONVERSATION_PASSWORD}",
+      "workspace": "${CONVERSATION_WORKSPACEID}"
     },
     "openwhisk": {
       "package": "remember-the-pineapple"
