@@ -56,15 +56,11 @@ To execute the instructions to build the example the following things should be 
 **Setup**
 
 * A Bluemix space in the Bluemix US South region must exist which will be used for this demo.
-* Make sure that OpenWhisk CLI is properly configured as described on the CLI installation instructions:
-
-  ```bash
-  wsk property set --apihost openwhisk.ng.bluemix.net --auth foo:bar
-  ```
+* Make sure that OpenWhisk CLI is properly configured as described on the CLI installation instructions.
 
 ## Solution Outline
 
-The whole solution consists of three parts:
+The whole solution consists of three parts which are briefly described below including their responsibilities in the demo.
 
 ### Watson Conversation Service
 
@@ -88,6 +84,22 @@ In this demo OpenWhisk is used to implement backend logic of the service like ge
 
 An overview about the basic concepts of Apache OpenWhisk and some simple examples can be found here: [https://console.bluemix.net/openwhisk/learn/concepts?env_id=ibm:yp:us-south](https://console.bluemix.net/openwhisk/learn/concepts?env_id=ibm:yp:us-south).
 
-### Amazon Alexa (Skill Kit)
+### Amazon Alexa (and Alexa Skill Kit)
 
 Amazon Alexa, the voice service that powers Echo, provides capabilities, that enable customers to interact with devices in a more intuitive way using voice.
+
+In this demo the Amazon Alexa Skill Kit will be used to create an Alexa skill which basically gatheres every input and sends it to OpenWhisk/ Watson Conversation for processing. Thus in this use-case the interaction model features of the Skill Kit are not really utilized since this is already included within Watson Conversation.
+
+An overview about the basic concepts of building custom skills for Alexa can be found here: [https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/overviews/understanding-custom-skills](https://developer.amazon.com/public/solutions/alexa/alexa-skills-kit/overviews/understanding-custom-skills).
+
+## Part 1: Creating a chatbot with Watson Conversation Service
+
+This part will describe how to setup the Watson Conversation Service which includes the dialog logic which is later used as the interaction model for the Alexa skill.
+
+### Quick path: Setup the demo conversation
+
+**Step 1.** Create an instance of Watson Conversation Service within your Bluemix Space on Bluemix US South.
+
+  * Goto `http://console.bluemix.net`, make sure you have selected `US South` in the region selection in the top right corner.
+
+    ![Bluemix Region US South](./images/wcs-bluemix-region.png)
