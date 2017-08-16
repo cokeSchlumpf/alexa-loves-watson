@@ -10,20 +10,24 @@ wsk package create ${PACKAGE_API} || true
 
 # Create actions
 pushd actions/alexahandler
+npm install
 ./deploy.sh ${PACKAGE_GENERIC}
 popd
 
-#pushd actions/conversation
-#./deploy.sh ${PACKAGE_GENERIC}
-#popd
+pushd actions/conversation
+npm install
+./deploy.sh ${PACKAGE_GENERIC}
+popd
 
-#pushd actions/datastore
-#./deploy.sh ${PACKAGE_GENERIC}
-#popd
+pushd actions/datastore
+npm install
+./deploy.sh ${PACKAGE_GENERIC}
+popd
 
-#pushd actions/datastore-api
-#./deploy.sh ${PACKAGE_GENERIC}
-#popd
+pushd actions/datastore-api
+npm install
+./deploy.sh ${PACKAGE_GENERIC}
+popd
 
 # Create package bindings
 wsk package delete ${PACKAGE} || true
