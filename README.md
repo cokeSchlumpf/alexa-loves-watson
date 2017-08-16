@@ -265,8 +265,6 @@ The shopping list is not included in the context which was loaded by the `alexah
 
 **Step 4.** Deploy your OpenWhisk actions.
 
-  * Go into every subdirectory of `./actions` and execute a `npm install` to download the action's dependencies.
-
   * Execute `./deploy.sh` to create all actions on your OpenWhisk account on Bluemix.
 
   * You can test if everything works by executing the following OpenWhisk action invocation:
