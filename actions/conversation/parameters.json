@@ -23,5 +23,10 @@
     "name": "context",
     "required": true,
     "description": "The context to be used for the conversation."
+  },
+  {
+    "name": "userid",
+    "required": true,
+    "description": "The id of the user who is requesting its shopping list."
   }
 ]

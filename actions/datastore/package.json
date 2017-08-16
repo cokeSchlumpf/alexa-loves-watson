@@ -1,0 +1,10 @@
+{
+  "name": "datastore",
+  "version": "1.0.0",
+  "description": "An OpenWhisk action offers methods for accessing the data store.",
+  "main": "index.js",
+  "dependencies": {
+    "cloudant": "^1.8.0",
+    "lodash": "^4.17.4"
+  }
+}

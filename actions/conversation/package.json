@@ -6,6 +6,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "lodash": "^4.17.4",
+    "openwhisk": "^3.6.0",
     "watson-developer-cloud": "^2.37.0"
   }
 }

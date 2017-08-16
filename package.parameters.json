@@ -8,6 +8,9 @@
       "username": "88a76892-c110-4cda-b82f-9ea7af3f472c",
       "password": "6p2XBldAqzWT",
       "workspace": "4cf0d304-6487-4697-be53-eb18df9894b4"
+    },
+    "openwhisk": {
+      "package": "remember-the-pineapple"
     }
   }
 }

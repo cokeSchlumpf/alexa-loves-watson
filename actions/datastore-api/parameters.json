@@ -1,0 +1,7 @@
+[
+  {
+    "name": "foo",
+    "required": true,
+    "descriptions": "foo bar"
+  }
+]

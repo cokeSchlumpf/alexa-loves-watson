@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Utterance",
+          "type": "AMAZON.LITERAL"
+        }
+      ],
+      "intent": "UtteranceIntent"
+    }
+  ]
+}

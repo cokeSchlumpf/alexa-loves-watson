@@ -1,0 +1,100 @@
+UtteranceIntent {They do not|Utterance}
+UtteranceIntent {They do to|Utterance}
+UtteranceIntent {I hope so|Utterance}
+UtteranceIntent {She okay|Utterance}
+UtteranceIntent {Let's go|Utterance}
+UtteranceIntent {Wow|Utterance}
+UtteranceIntent {Okay you're gonna need to learn how to lie|Utterance}
+UtteranceIntent {No|Utterance}
+UtteranceIntent {I'm kidding You know how sometimes you just become this persona And you don't know how to quit|Utterance}
+UtteranceIntent {Like my fear of wearing pastels|Utterance}
+UtteranceIntent {The real you|Utterance}
+UtteranceIntent {What good stuff|Utterance}
+UtteranceIntent {I figured you'd get to the good stuff eventually|Utterance}
+UtteranceIntent {Thank God If I had to hear one more story about your coiffure|Utterance}
+UtteranceIntent {Me This endless blonde babble I'm like boring myself|Utterance}
+UtteranceIntent {What crap|Utterance}
+UtteranceIntent {do you listen to this crap|Utterance}
+UtteranceIntent {No|Utterance}
+UtteranceIntent {Then Guillermo says If you go any lighter you're gonna look like an extra on|Utterance}
+UtteranceIntent {You always been this selfish|Utterance}
+UtteranceIntent {But|Utterance}
+UtteranceIntent {Then that's all you had to say|Utterance}
+UtteranceIntent {Well no|Utterance}
+UtteranceIntent {You never wanted to go out with me did you|Utterance}
+UtteranceIntent {I was|Utterance}
+UtteranceIntent {I looked for you back at the party but you always seemed to be occupied|Utterance}
+UtteranceIntent {Tons|Utterance}
+UtteranceIntent {Have fun tonight|Utterance}
+UtteranceIntent {I believe we share an art instructor|Utterance}
+UtteranceIntent {You know Chastity|Utterance}
+UtteranceIntent {Looks like things worked out tonight huh|Utterance}
+UtteranceIntent {Hi|Utterance}
+UtteranceIntent {Who knows All I've ever heard her say is that she'd dip before dating a guy that smokes|Utterance}
+UtteranceIntent {So that's the kind of guy she likes Pretty ones|Utterance}
+UtteranceIntent {Lesbian No I found a picture of Jared Leto in one of her drawers so I'm pretty sure she's not harboring same sex tendencies|Utterance}
+UtteranceIntent {She's not a|Utterance}
+UtteranceIntent {I'm workin' on it But she doesn't seem to be goin' for him|Utterance}
+UtteranceIntent {I really really really wanna go but I can't Not unless my sister goes|Utterance}
+UtteranceIntent {Sure have|Utterance}
+UtteranceIntent {Eber's Deep Conditioner every two days And I never ever use a blowdryer without the diffuser attachment|Utterance}
+UtteranceIntent {How do you get your hair to look like that|Utterance}
+UtteranceIntent {You're sweet|Utterance}
+UtteranceIntent {You have my word As a gentleman|Utterance}
+UtteranceIntent {I counted on you to help my cause You and that thug are obviously failing Aren't we ever going on our date|Utterance}
+UtteranceIntent {You got something on your mind|Utterance}
+UtteranceIntent {Where|Utterance}
+UtteranceIntent {There|Utterance}
+UtteranceIntent {Well there's someone I think might be|Utterance}
+UtteranceIntent {How is our little Find the Wench A Date plan progressing|Utterance}
+UtteranceIntent {Forget French|Utterance}
+UtteranceIntent {That's because it's such a nice one|Utterance}
+UtteranceIntent {I don't want to know how to say that though I want to know useful things Like where the good stores are How much does champagne cost Stuff like Chat I have never in my life had to point out my head to someone|Utterance}
+UtteranceIntent {Right See You're ready for the quiz|Utterance}
+UtteranceIntent {C'esc ma tete This is my head|Utterance}
+UtteranceIntent {Let me see what I can do|Utterance}
+UtteranceIntent {Gosh if only we could find Kat a boyfriend|Utterance}
+UtteranceIntent {That's a shame|Utterance}
+UtteranceIntent {Unsolved mystery She used to be really popular when she started high school then it was just like she got sick of it or something|Utterance}
+UtteranceIntent {Why|Utterance}
+UtteranceIntent {Seems like she could get a date easy enough|Utterance}
+UtteranceIntent {The thing is Cameron I'm at the mercy of a particularly hideous breed of loser My sister I can't date until she does|Utterance}
+UtteranceIntent {Cameron|Utterance}
+UtteranceIntent {No no it's my fault we didn't have a proper introduction|Utterance}
+UtteranceIntent {Forget it|Utterance}
+UtteranceIntent {You're asking me out That's so cute What's your name again|Utterance}
+UtteranceIntent {Okay then how bout we try out some French cuisine Saturday Night|Utterance}
+UtteranceIntent {Not the hacking and gagging and spitting part Please|Utterance}
+UtteranceIntent {Well I thought we'd start with pronunciation if that's okay with you|Utterance}
+UtteranceIntent {Can we make this quick Roxanne Korrine and Andrew Barrett are having an incredibly horrendous public break up on the quad Again|Utterance}
+UtteranceIntent {I did|Utterance}
+UtteranceIntent {You think you  re the only sophomore at the prom|Utterance}
+UtteranceIntent {I don't have to be home til two|Utterance}
+UtteranceIntent {I have to be home in twenty minutes|Utterance}
+UtteranceIntent {All I know is I'd give up my private line to go out with a guy like Joey|Utterance}
+UtteranceIntent {Sometimes I wonder if the guys we're supposed to want to go out with are the ones we actually want to go out with you know|Utterance}
+UtteranceIntent {Bianca I don't think the highlights of dating Joey Dorsey are going to include door opening and coat holding|Utterance}
+UtteranceIntent {Combination I don't know I thought he'd be different More of a gentleman|Utterance}
+UtteranceIntent {Is he oily or dry|Utterance}
+UtteranceIntent {He practically proposed when he found out we had the same dermatologist I mean Dr Bonchowski is great an all but he's not exactly relevant party conversation|Utterance}
+UtteranceIntent {Would you mind getting me a drink Cameron|Utterance}
+UtteranceIntent {Great|Utterance}
+UtteranceIntent {Joey|Utterance}
+UtteranceIntent {Who|Utterance}
+UtteranceIntent {Where did he go He was just here|Utterance}
+UtteranceIntent {You might wanna think about it|Utterance}
+UtteranceIntent {No|Utterance}
+UtteranceIntent {Did you change your hair|Utterance}
+UtteranceIntent {You know the deal I can  t go if Kat doesn't go|Utterance}
+UtteranceIntent {Listen I want to talk to you about the prom|Utterance}
+UtteranceIntent {You're concentrating awfully hard considering it's gym class|Utterance}
+UtteranceIntent {Hi Joey|Utterance}
+UtteranceIntent {Hey sweet cheeks|Utterance}
+UtteranceIntent {My agent says I've got a good shot at being the Prada guy next year|Utterance}
+UtteranceIntent {Neat|Utterance}
+UtteranceIntent {It's a gay cruise line but I'll be like wearing a uniform and stuff|Utterance}
+UtteranceIntent {Queen Harry|Utterance}
+UtteranceIntent {So yeah I've got the Sears catalog thing going and the tube sock gig that's gonna be huge And then I'm up for an ad for Queen Harry next week|Utterance}
+UtteranceIntent {Hopefully|Utterance}
+UtteranceIntent {Exactly So you going to Bogey Lowenbrau's thing on Saturday|Utterance}
+UtteranceIntent {Expensive|Utterance}

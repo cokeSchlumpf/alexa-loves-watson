@@ -1,0 +1,11 @@
+{
+  "name": "datastore-api",
+  "version": "1.0.0",
+  "description": "An OpenWhisk action which provides an RESTful API to access the datastore.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "openwhisk": "^3.6.0",
+    "openwhisk-routes": "^1.0.8"
+  }
+}

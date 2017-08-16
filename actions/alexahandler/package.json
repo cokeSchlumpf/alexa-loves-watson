@@ -1,0 +1,11 @@
+{
+  "name": "alexahandler",
+  "version": "1.0.0",
+  "description": "An OpenWhisk action which handles calls from Alexa.",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "openwhisk": "^3.6.0",
+    "openwhisk-routes": "^1.0.8"
+  }
+}
