@@ -1,0 +1,16 @@
+{
+  "config": {
+    "cloudant": {
+      "database": "remember-the-pineapple",
+      "url": "<url>"
+    },
+    "conversation": {
+      "username": "<username>",
+      "password": "<password>",
+      "workspace": "<workspaceId>"
+    },
+    "openwhisk": {
+      "package": "remember-the-pineapple"
+    }
+  }
+}
