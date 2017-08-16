@@ -72,12 +72,22 @@ A cognitive service provided by IBM to quickly build, run and manage chatbots or
 
 The Watson Conversation Service is mainly used to configure and build the whole dialog structure. For the purpose to show the capabilities of the service in this demo, it will also do some basic transformations of the data - In a real world scenario you would most probably do that within your backend application.
 
-[![Watson Conversation Service Overview](https://img.youtube.com/vi/1rTl1WEbg5U/2.jpg)](https://www.youtube.com/watch?v=1rTl1WEbg5U)
-
 An overview about the basic concepts of Watson Conversation Service and some simple examples can be found here: [https://www.ibm.com/watson/services/conversation/](https://www.ibm.com/watson/services/conversation/).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rTl1WEbg5U" frameborder="0" allowfullscreen></iframe>
 
 ### Apache OpenWhisk
 
-Apache OpenWhisk is a Function-as-a-Service (FaaS) platform which executes functions in response to incoming events and costs nothing when not in use. It is available as 
+Apache OpenWhisk is a Function-as-a-Service (FaaS) platform which executes functions in response to incoming events and costs nothing when not in use. It is available on IBM Bluemix.
+
+In this demo OpenWhisk is used to implement backend logic of the service like getting and storing context information in the database etc. Fot this purpose the demo includes 4 OpenWhisk actions:
+
+* **alexahandler** - A function which receives and responds to requests from Alexa.
+* **conversation** - A function which acts as a client to Watson Conversation Service.
+* **datastore** - A function which implements the data access layer which can be used by the other two actions.
+
+* **datastore-api** - A function to access the datastore via a RESTful API. It is not necessary for the running solution, but really helpful to be able to see what's happening in the database.
+
+An overview about the basic concepts of Apache OpenWhisk and some simple examples can be found here: [https://console.bluemix.net/openwhisk/learn/concepts?env_id=ibm:yp:us-south](https://console.bluemix.net/openwhisk/learn/concepts?env_id=ibm:yp:us-south).
+
+### Amazon Alexa (Skill Kit)
+
+Amazon Alexa, the voice service that powers Echo, provides capabilities, that enable customers to interact with devices in a more intuitive way using voice.
